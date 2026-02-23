@@ -23,11 +23,11 @@ This analysis is conducted using a "Forest Fire" dataset that records environmen
 **Area** => Burnt forest area
 
 ## Tools Used
-Excel: Data Cleaning
+**Excel:** Data Cleaning
 
-SQL Server: Data Analysis
+**SQL Server:** Data Analysis
 
-Power BI: Data Visualization
+**Power BI:** Data Visualization
 
 ## Data Cleaning & Pre-Processing
 Data cleaning and pre-processing were carried out at the initial stage to ensure data quality and the following tasks were performed;
