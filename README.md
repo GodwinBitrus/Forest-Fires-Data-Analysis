@@ -24,7 +24,9 @@ This analysis is conducted using a "Forest Fire" dataset that records environmen
 
 ## Tools Used
 Excel: Data Cleaning
+
 SQL Server: Data Analysis
+
 Power BI: Data Visualization
 
 ## Data Cleaning & Pre-Processing
